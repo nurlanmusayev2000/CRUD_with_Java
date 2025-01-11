@@ -26,8 +26,8 @@ This is a Spring Boot application implementing a simple CRUD API with authentica
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/nurlanmusayev2000/CRUD_with_Java
+cd https://github.com/nurlanmusayev2000/CRUD_with_Java
 ```
 
 ### Step 2: Run PostgreSQL in Docker
